@@ -1,0 +1,2 @@
+langchain==0.0.298
+load_dotenv=1.0.0
